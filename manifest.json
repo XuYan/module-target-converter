@@ -1,5 +1,5 @@
 {
-    "name": "Getting Started Example",
+    "name": "Swift module and blaze target converter",
     "version": "1.0",
     "description": "Build an Extension!",
     "permissions": ["activeTab", "declarativeContent", "storage"],
